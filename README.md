@@ -260,12 +260,6 @@ Absolutely not. Promises are an unnecessarily complicated way to solve problems 
 
 But if you decide to use it, I strongly recommend sticking to the top-level package types and functions like `Promise[T]` and `Run`.
 
-## Contributing
-
-Contributions are welcome. For anything other than bugfixes, please first open an issue to discuss what you want to change.
-
-Make sure to add or update tests as needed.
-
 ## License
 
 Created by [Anton Zhiyanov](https://antonz.org/). Released under the MIT License.
